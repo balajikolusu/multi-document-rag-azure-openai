@@ -1,0 +1,20 @@
+Q: What is the return policy?
+A: Customers can return unopened products within 30 days of purchase with the original receipt.
+
+Q: How long does shipping take?
+A: Standard shipping takes 3 to 5 business days.
+
+Q: Do you offer international shipping?
+A: Yes, international shipping is available to selected countries.
+
+Q: How can I contact customer support?
+A: Customer support is available by email at support@example.com.
+
+Q: What payment methods are accepted?
+A: We accept Visa, Mastercard, American Express, and PayPal.
+
+Q: Can I cancel my order?
+A: Orders can be cancelled before they have been shipped.
+
+Q: How can I track my order?
+A: A tracking link will be emailed to the customer once the order has shipped.
